@@ -1,4 +1,4 @@
-# python scraper and csv creator using BeautifulSoup and Pandas libraries
+# Python elempleo.com scraper
 
 This python script was created to scrape relevant data from software engineering/developer job posts in Colombia's biggest job board website - www.elempleo.com. The scraping of relevant html files was done with the excellent BeautifulSoup library.
 
