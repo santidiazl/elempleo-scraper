@@ -1,4 +1,4 @@
-# Python elempleo.com scraper
+# Python elempleo.com Job Post Scraper
 
 This python script was created to scrape relevant data from software engineering/developer job posts in Colombia's biggest job board website - www.elempleo.com. 
 
