@@ -12,12 +12,6 @@ df.columns = df.columns.str.strip()
 #4 set ID as index
 df = df.set_index('ID')
 
-# new CSV
-
-#roles_desc = df[['ID','Role','Description']]
-
-#roles_desc.to_csv(r'../python-crawl/datasets/roles_desc.csv', index=False, header=True)
-
 # remove irrelevants
 
 relevants = (pd.read_csv('../elempleo-crawl-counter/datasets/relevant_IDs.csv')).to_numpy().ravel()

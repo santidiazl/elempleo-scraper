@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import re
 import datetime
-import functions
 
 def get_notechs(df):
     return df.loc[(df["JavaScript"]==False) & 
