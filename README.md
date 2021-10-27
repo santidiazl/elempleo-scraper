@@ -1,6 +1,6 @@
 # elempleo.com Job Post Scraper
 
-These Python scripts were created to scrape key data points from relevant software engineering/developer job posts from Colombia's biggest job board website - www.elempleo.com. 
+These Python scripts were created to scrape key data points from relevant software engineering/developer job vacancies posted on Colombia's biggest job board website - [El Empleo](www.elempleo.com). 
 
 The scraping of HTML files is done with the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) library.
 
